@@ -1,0 +1,12 @@
+# Common files to ignore for PHP/XAMPP projects
+/.idea/
+/.vscode/
+vendor/
+node_modules/
+.env
+.DS_Store
+composer.lock
+logs/
+*.log
+uploads/
+/.history/
